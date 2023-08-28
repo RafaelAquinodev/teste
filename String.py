@@ -2,16 +2,20 @@
 
 nome = "rafael"
 print(nome.upper())
+nome1 = "Leo"
+print(nome1.upper())
 
 #colocar a string minuscula
 
 nome2 = "RAFAEL"
-print(nome.lower())
+nome3 = "Leo"
+print(nome3.lower())
 
 #colocar a string em lista
 
+nome4 = "Leo"
 nome3 = "Rafael Oliveira"
-print(nome3.split())
+print(nome4.split())
 
 #slice de string
 
